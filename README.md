@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Everyday developer with a big passion for everything 
+                      AI, 
+                      Software Development, 
+                      Blockchain,
+                      Electronics,
+                      and IoT,
+Just want to share knowledgde and build great things
 <!--
 **ArnoSlabbinck/ArnoSlabbinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
