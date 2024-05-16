@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 An simple developer but  with a big passion for everything 
-                      AI, 
+                      Data engineering, 
                       Software Development, 
-                      Blockchain,
-                      Electronics,
-                      and IoT,
-Just want to share knowledgde and build great things. I want to devote my time the most towards IoT development
+                      Electronics
+Just want to share knowledgde and build great things. 
 <!--
 **ArnoSlabbinck/ArnoSlabbinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
