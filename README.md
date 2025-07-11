@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 An simple developer but  with a big passion for everything 
-                      Data engineering, 
-                      Software Development, 
-                      Electronics
+                      Code, 
+                      Electronics,
+                      Cloud 
 Just want to share knowledgde and build great things. 
 <!--
 **ArnoSlabbinck/ArnoSlabbinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
